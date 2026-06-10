@@ -1,3 +1,3 @@
 .gitignore
 .env
-_pyacache_/
+computing-history-client/_pycache_/
