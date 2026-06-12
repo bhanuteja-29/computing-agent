@@ -2,32 +2,17 @@ AI History & Computing Assistant
 
 An AI-powered conversational agent specializing in Computing History and Artificial Intelligence, built using Microsoft Foundry and GPT-4.1-mini. The agent provides accurate, contextual, and up-to-date responses by combining Large Language Model capabilities with web search tools.
 
-Features
+## Features
 
-Answers questions related to:
+- Answers questions related to:
+  - Computing History
+  - Artificial Intelligence
+  - Machine Learning
+  - Famous Computer Scientists
+  - Historical Computing Milestones
 
-Computing History
-Artificial Intelligence
-Machine Learning
-Famous Computer Scientists
-Historical Computing Milestones
-Tool-augmented AI responses using web search
-Context-aware conversations
-Retrieval of current information from external sources
-Natural language interaction
+- Tool-augmented AI responses using web search
+- Context-aware conversations
+- Retrieval of current information from external sources
+- Natural language interaction
 
-Technologies Used :
-Python
-Microsoft Foundry
-GPT-4.1-mini
-Azure AI Services
-Web Search Tools
-Async Programming (AsyncIO)
-
-## Demo
-
-![Demo 1](/demo1.png)
-
-![Demo 2](/demo2.png)
-
-![Demo 3](/demo3.png)
