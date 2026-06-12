@@ -16,3 +16,10 @@ An AI-powered conversational agent specializing in Computing History and Artific
 - Retrieval of current information from external sources
 - Natural language interaction
 
+## Demo
+
+![Demo 1](demo1.png)
+
+![Demo 2](demo2.png)
+
+![Demo 3](demo3.png)
