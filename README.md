@@ -26,6 +26,8 @@ Async Programming (AsyncIO)
 
 ## Demo
 
-![AI Agent Demo](/Screenshot 2026-06-12 234147.png)
-![AI Agent Demo](/Screenshot 2026-06-12 234237png)
-![AI Agent Demo](/Screenshot 2026-06-12 234442.png)
+![Demo 1](demo1.png)
+
+![Demo 2](demo2.png)
+
+![Demo 3](demo3.png)
