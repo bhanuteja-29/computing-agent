@@ -23,3 +23,9 @@ GPT-4.1-mini
 Azure AI Services
 Web Search Tools
 Async Programming (AsyncIO)
+
+## Demo
+
+![AI Agent Demo](/Screenshot 2026-06-12 234147.png)
+![AI Agent Demo](/Screenshot 2026-06-12 234237png)
+![AI Agent Demo](/Screenshot 2026-06-12 234442.png)
